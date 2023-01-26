@@ -8,7 +8,7 @@ import java.io.OutputStream;
 import java.net.Socket;
 
 public class Worker extends Thread {
-	String path;
+	String path="./files/";
 	String namefile;
 	Socket soc;
 	

@@ -31,7 +31,6 @@ public class Client {
 		dos.writeUTF(filename);
 		
 		int len = dis.readInt();
-		System.out.println(len);
 		if (len != -1) {
 			byte[] data = new byte[len];
 			dis.readFully(data);
@@ -40,7 +39,7 @@ public class Client {
 			fos.write(data);
 			fos.close();
 			
-			File f = new File (path  + "client");
+			File f = new File (path  + "Client.txt");
 			f.createNewFile();
 			FileOutputStream fos2 = new FileOutputStream(f);
 			fos2.write(data);
