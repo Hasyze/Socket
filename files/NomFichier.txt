@@ -1,0 +1,37 @@
+En sémantique, la synonymie est définie, de la manière la plus générale, comme la relation de similitude de sens entre deux ou plusieurs entités linguistiques1,2,3,4. De telles entités peuvent être des mots à sens lexical, des mots-outils, des locutions, des affixes ou des constructions syntaxiques, c'est-à-dire des syntagmes, des phrases simples et des propositions membres de phrases complexes.
+
+Il n'y a pas d'unité de vues quant au traitement des cas de relation couverts par la définition ci-dessus. Pour certains linguistes ne seraient synonymes que les entités dont le sens serait identique de tous les points de vue, mais ils considèrent qu'il n'existe pas de tels cas, par conséquent qu'il n'y a pas de synonymie5. Laurence Urdang (en), directeur d'un dictionnaire de synonymes, affirme toutefois qu'il n'y a pas de vrais synonymes6. D'autres auteurs trouvent qu'il n'y a pas de synonymie complète, mais seulement partielle7. Selon d'autres encore, il y a aussi bien synonymie partielle que synonymie complète8, mais ils voient tout de même certaines différences entre synonymes complets aussi. De l'avis de certains de ces auteurs, ne sont complets que les synonymes entre lesquels il y a seulement une différence de fréquence d'utilisation9, alors que d'autres admettent l'existence de plusieurs types de différences10.
+
+Types de synonymie
+Selon les types d'entités linguistiques
+Synonymie lexicale
+On parle de synonymie en premier lieu dans le domaine lexical. D'ailleurs, certains auteurs ne mentionnent que ce genre de synonymie2,3.
+
+Peuvent être synonymes lexicaux un mot et un autre mot (ex. châtier – punir11) ou un mot et une locution, ex. vainement – en vain12. La condition principale pour que deux entités lexicales soit synonymes est qu'elles fassent partie de la même classe de mots13.
+
+Une source importante de synonymes lexicaux est l'emprunt. Exemples :
+
+(fr) mal d'estomac – gastralgie (formé d'éléments de composition empruntés au grec)14 ;
+(en) begin (hérité du proto-germanique) – commence (emprunt à l'ancien français) « commencer »15 ;
+(ro) guraliv (dérivé en roumain d'un mot hérité du latin) – locvace (emprunt au français ou au latin), « loquace »16 ;
+(ru) черта (tcherta) (hérité du proto-slave) – линия (linia) (emprunt au latin) « ligne »17.
+Une autre source est la formation consciente de mots ou de locutions avec des éléments antérieurement intégrés à la langue, pour qu'on puisse remplacer des emprunts :
+
+(fr) e-mail (mot anglais) – courriel (mot-valise formé de mots français)18 ;
+(en) preface (emprunt au français) – foreword (composition d'éléments anglais) « préface »19 ;
+(ro) prefață (emprunt au français ou au latin) – cuvânt înainte (locution formée de mots roumains) « préface »20;
+(hu) kurzus (emprunt au latin) – tanfolyam (composé de mots autochtones) « cours » (dans l'enseignement)21 ;
+(ru) лингвистика (lingvistika) – языкознание (iazykoznanié) (composé d'éléments autochtones) « linguistique »22.
+Synonymie dans la formation des mots
+Il existe des affixes de dérivation et des éléments de composition synonymes.
+
+Exemples d'affixes :
+
+(ru) les préfixes négatifs не- (ne-) – без- (bez-), ex. неграмотный (negramotnyï) – безграмотный (bezgramotnyï) « illétré »22 ;
+(ro) les suffixes diminutifs -uț – -icel, ex. călduț – căldicel « tiède »16.
+Parmi les éléments de composition sans existence autonome il existe également des synonymes. Dans la composition appelée « savante », la source de ces éléments est en général l'emprunt. On les rencontre le plus fréquemment avec des mots différents mais certains sont appliqués au même mot :
+
+bi- (du latin) – di- (du grec): biatomique – diatomique23 ;
+micro- (du grec) – mini- (du latin): microordinateur – miniordinateur24.
+Synonymie morphologique
+Ce type de synonymie consiste en l'équivalence fonctionnelle de certaines formes grammaticales. En anglais et en russe, par exemple, on peut exprimer les degrés de comparaison comparatif de supériorité et superlatif relatif de supériorité aussi bien de façon synthétique (avec un suffixe), que de façon analytique (en deux mots). Dans le cas de certains mots, on peut appliquer les deux procédés :
